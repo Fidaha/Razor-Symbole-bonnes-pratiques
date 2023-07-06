@@ -1,0 +1,31 @@
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\appsettings.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\RazorSymbolebonnes pratiques.staticwebassets.runtime.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\RazorSymbolebonnes pratiques.exe
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\RazorSymbolebonnes pratiques.deps.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\RazorSymbolebonnes pratiques.runtimeconfig.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\RazorSymbolebonnes pratiques.dll
+C:\Users\hafid\RazorSymbolebonnes pratiques\bin\Debug\net7.0\RazorSymbolebonnes pratiques.pdb
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.csproj.AssemblyReference.cache
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.AssemblyInfoInputs.cache
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.AssemblyInfo.cs
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.csproj.CoreCompileInputs.cache
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.RazorAssemblyInfo.cache
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.RazorAssemblyInfo.cs
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\staticwebassets\msbuild.RazorSymbolebonnes pratiques.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorSymbolebonnes pratiques.props
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorSymbolebonnes pratiques.props
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorSymbolebonnes pratiques.props
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\scopedcss\bundle\RazorSymbolebonnes pratiques.styles.css
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\scopedcss\projectbundle\RazorSymbolebonnes pratiques.bundle.scp.css
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.dll
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\refint\RazorSymbolebonnes pratiques.dll
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.pdb
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\RazorSymbolebonnes pratiques.genruntimeconfig.cache
+C:\Users\hafid\RazorSymbolebonnes pratiques\obj\Debug\net7.0\ref\RazorSymbolebonnes pratiques.dll

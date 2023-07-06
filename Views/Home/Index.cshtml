@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@model List<Item>
+
+@{
+    int sum = Model.Sum(item => item.Amount);
+    string conclusion = (sum > 10000000) ? "You earn too much money" : "You should ask for a salary raise";
+}
+
+<div class="container">
+    @conclusion
+</div>
+
